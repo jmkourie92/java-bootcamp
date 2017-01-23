@@ -1,0 +1,6 @@
+1	001	00011	25000	Mason Big Box	5711 Fields Ertel Rd.	Mason	OH	45249
+2	001	00255	32788	Downtown Big Box	9330 Main St.	Cincinnati	OH	45202
+3	001	00172	18590	Goshen Big Box	6777 Goshen Rd.	Goshen	OH	45122
+4	001	00075	21422	Bridgetown Big Box	3888 Race Rd.	Cincinnati	OH	45211
+5	111	00011	27433	Louisville Big Box	1111 Washington St.	Louisville	KY	40206
+6	111	00044	28744	Riverfront Big Box	8000 Liberty St.	Louisville	KY	40204
